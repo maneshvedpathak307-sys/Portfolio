@@ -1,70 +1,79 @@
-# Getting Started with Create React App
+# 👋 Hi, I'm Manesh Vedpathak
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### 💻 Java Full Stack Developer | React.js | Spring Boot | MySQL
 
-## Available Scripts
+I am a BBA (Computer Application) graduate and aspiring Java Full Stack Developer passionate about building secure, responsive, and user-friendly web applications using Java, Spring Boot, React.js, and MySQL.
 
-In the project directory, you can run:
+## 🌐 My Portfolio
 
-### `npm start`
+🚀 **Explore my portfolio website:**  
+[**View My Portfolio**](https://maneshvedpathak307-sys.github.io/Portfolio/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 📬 Connect With Me
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **LinkedIn:** [linkedin.com/in/maneshvedpathak](https://www.linkedin.com/in/maneshvedpathak)
+- **GitHub:** [github.com/maneshvedpathak307-sys](https://github.com/maneshvedpathak307-sys)
+- **Email:** [maneshvedpathak307@gmail.com](mailto:maneshvedpathak307@gmail.com)
+- **Location:** Pune, Maharashtra, India
 
-### `npm test`
+## 🛠️ Technical Skills
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Programming Languages:** Java, JavaScript, SQL
+- **Frontend:** React.js, HTML5, CSS3
+- **Backend:** Spring Boot, Spring Security, REST APIs
+- **Database:** MySQL
+- **Authentication:** JWT, Role-Based Access Control
+- **Tools:** Git, GitHub, Postman, VS Code, IntelliJ IDEA
+- **Core Concepts:** Object-Oriented Programming (OOP), CRUD Operations
 
-### `npm run build`
+## 🚀 Featured Projects
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 1. Hospital Management System
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**Tech Stack:** Java, Spring Boot, React.js, MySQL, Spring Security, JWT
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Developed role-based workflows for Admin, Doctor, and Patient.
+- Implemented JWT authentication and Spring Security.
+- Built REST APIs and database-backed patient, doctor, department, and appointment modules.
 
-### `npm run eject`
+### 2. Employee Management System
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+**Tech Stack:** Java, Spring Boot, React.js, MySQL, Spring Security, JWT
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Developed employee management features with secure authentication and role-based access.
+- Implemented attendance, leave, payroll, department, designation, notification, and reporting modules.
+- Integrated Spring Boot REST APIs with React.js and MySQL.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### 3. Resume Builder
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**Tech Stack:** Java, Spring Boot, React.js, MySQL
 
-## Learn More
+- Built resume creation and management functionality.
+- Implemented multiple resume templates, preview functionality, and PDF download.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### 4. Chicken Delivery System
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Tech Stack:** Java, Spring Boot, React.js, MySQL, Spring Security, JWT
 
-### Code Splitting
+- Developed a chicken ordering and delivery application.
+- Implemented secure user and admin workflows using JWT authentication.
+- Built product browsing, cart, checkout, order management, reviews, returns, and admin reporting features.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🎓 Education
 
-### Analyzing the Bundle Size
+**Bachelor of Business Administration (Computer Application)**  
+P.D.E.A. Waghire College of Arts, Commerce & Science  
+Savitribai Phule Pune University | 2025
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 📜 Certification
 
-### Making a Progressive Web App
+**Getting Started with Full Stack Java Development**  
+September 2026
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 🎯 Career Objective
 
-### Advanced Configuration
+I am seeking an entry-level Java Full Stack Developer opportunity where I can apply my skills, contribute to real-world projects, and continue learning modern web development technologies.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+⭐ Thank you for visiting my GitHub profile!

@@ -381,7 +381,7 @@ function ContactSocialLinks() {
 }
 
 function App() {
-  const resumeUrl = `${process.env.PUBLIC_URL}/Manesh_Vedpathak_Resume.pdf`;
+  const resumeUrl = `${process.env.PUBLIC_URL}/Resume.pdf`;
 
   return (
     <div className="portfolio">
@@ -434,7 +434,7 @@ function App() {
               <a
                 className="button button-secondary"
                 href={resumeUrl}
-                download="Manesh_Vedpathak_Resume.pdf"
+                download="Resume.pdf"
               >
                 Download Resume ↓
               </a>
